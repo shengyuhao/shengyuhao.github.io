@@ -16,4 +16,12 @@ You can find my CV here: [Shengyu Hao's Curriculum Vitae](../assets/Curriculum V
 
 **I’m actively seeking a job or a PostDoc opportunity starting in Fall 2024.**
 
-[Email](mailto:shengyuhao@zju.edu.cn) / [Github](https://github.com/shengyuhao) / [Google Scholar](https://scholar.google.com/citations?user=wUVkZOkAAAAJ&hl=zh-CN) 
+News
+======
+* [Jun. 2024] One paper was accepted by ACM MM, 2024.
+* [Jun. 2024] One paper was accepted by ECCV, 2024.
+* [Jun. 2024] One paper was accepted by the CVPR Workshop on Embodied AI, 2024.
+* [Sept. 2023] One paper was accepted by IJCV, 2023.
+* [Sept. 2023] One paper was accepted by TMM, 2023.
+* [Apr. 2023] One paper was accepted by the CVPR workshop, Computer Vision for Fashion, Art, and Design, 2023.
+* [Aug. 2021] One paper was accepted by CVIU 2021.
