@@ -18,7 +18,7 @@ You can find my CV here: [Shengyu Hao's Curriculum Vitae](../assets/Curriculum V
 
 News
 ======
-* [Jun. 2024] One paper was accepted by ACM MM, 2024.
+* [July. 2024] One paper was accepted by ACM MM, 2024.
 * [Jun. 2024] One paper was accepted by ECCV, 2024.
 * [Jun. 2024] One paper was accepted by the CVPR Workshop on Embodied AI, 2024.
 * [Sept. 2023] One paper was accepted by IJCV, 2023.
