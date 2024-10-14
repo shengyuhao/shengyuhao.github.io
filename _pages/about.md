@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student from [College of Computer Science and Technology](https://www.cs.zju.edu.cn/) and [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/college), Zhejiang University. My research interests include computer vision and its application on ego-centric video understanding, 3D reconstruction, and multi-object tracking.
+I am the final year Ph.D. student from [College of Computer Science and Technology](https://www.cs.zju.edu.cn/) and [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/college), Zhejiang University. My research interests include computer vision and its application on ego-centric video understanding, 3D reconstruction, and multi-object tracking.
 
 I am glad to be advised by [Prof. Gaoang Wang](https://person.zju.edu.cn/gaoangwang/) of [CVNext Lab](https://cvnext.github.io/) from Zhejiang University. 
 
