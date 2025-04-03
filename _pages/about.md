@@ -14,10 +14,10 @@ I am glad to be advised by [Prof. Gaoang Wang](https://person.zju.edu.cn/gaoangw
 
 You can find my CV here: [Shengyu Hao's Curriculum Vitae](../assets/Curriculum Vitae.pdf).
 
-**I’m actively seeking a job or a PostDoc opportunity starting in Fall 2024.**
-
 News
 ======
+* [Mar. 2025] One paper was accepted by TVCG, 2025.
+* [Jan. 2025] One paper was accepted by TMM, 2025.
 * [Dec. 2024] One paper was accepted by ICASSP, 2025.
 * [Jul. 2024] One paper was accepted by ACM MM, 2024.
 * [Jun. 2024] One paper was accepted by ECCV, 2024.
